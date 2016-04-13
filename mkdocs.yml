@@ -1,0 +1,10 @@
+site_name: Radwords
+pages:
+- home: index.md
+- quickstart guide: quickstart.md
+- installation:
+    - CRAN: cran.md
+    - github: github.md
+- code examples: examples.md
+- FAQ / troubleshooting: faq.md
+theme: readthedocs
