@@ -1,4 +1,4 @@
 ```R
-install.packages("Radwords")
-library(Radwords)
+install.packages("RAdwords")
+library(RAdwords)
 ```

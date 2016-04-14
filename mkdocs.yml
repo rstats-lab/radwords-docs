@@ -1,10 +1,13 @@
-site_name: Radwords
+site_name: RAdwords
 pages:
 - home: index.md
 - quickstart guide: quickstart.md
-- installation:
-    - CRAN: cran.md
-    - github: github.md
+- installation: install.md
+- workflow:
+    - authentication: auth.md
+    - querybuilder: query.md
+    - load data: getdata.md
+    - reports and metrics: reports.md
 - code examples: examples.md
 - FAQ / troubleshooting: faq.md
 theme: readthedocs
