@@ -8,6 +8,10 @@ NAs introduced by coercion
 
 Most likley you query data which are not available by the AdWords API. 
 
-There are specific metrics like ```SearchRankLostImpressionShare, SearchExactMatchImpressionShare, SearchImpressionShare, SearchPredictedCtr``` which do not have data on certain AdWords segments (e.g the content network).  
+There are specific metrics like ```SearchRankLostImpressionShare, SearchExactMatchImpressionShare, SearchImpressionShare, SearchPredictedCtr``` which do not have data on certain AdWords segments (e.g. the content network).  
 
 A commen case of this issue occures when you query competition metrics (```SearchRankLostImpressionShare```) which are only available for the google search. However your keywords are running in the google search and in the google content network at the same time.
+
+### Cannot get keywords
+
+Since AdWords API version 201601 the attribute name ```KeywordText```is no longer valid. Use ```Criteria```instead.
