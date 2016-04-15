@@ -3,6 +3,7 @@ pages:
 - home: index.md
 - quickstart guide: quickstart.md
 - installation: install.md
+- requirements: requirements.md
 - workflow:
     - authentication: auth.md
     - querybuilder: query.md
