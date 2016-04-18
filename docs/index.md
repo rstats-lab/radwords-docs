@@ -1,4 +1,4 @@
-# Radwords User Manual 
+# RAdwords User Manual 
 
 Welcome to the official documentation of the R Adwords package for Google Adwords. Radwords enables users of the R Language for Statistical Computing to directly access their Google Adwords account in order to consume and analyze information provided by the Adwords API.
 
