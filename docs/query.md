@@ -2,6 +2,8 @@
 
 With ```statement()``` function you can build a statement for querying the Adwords API. For possible reports and metrics see the [reports section](reports.md). 
 
+Best practice is to save the statement output in a R object. You can reuse it on different API calls and keep your code organized.
+
 ### Examples
 ```R
 #Example 1

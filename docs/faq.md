@@ -15,3 +15,9 @@ A commen case of this issue occures when you query competition metrics (```Searc
 ### Cannot get keywords
 
 Since AdWords API version 201601 the attribute name ```KeywordText```is no longer valid. Use ```Criteria```instead.
+
+### Send mutate jobs
+
+Is it possible to send mutate jobs wo the API?  
+
+No it´s not. RAdwords uses the reporting service of the AdWords API which only allows to retrieve data. Changing campaigns, keywords, AdWords settings, etc. is not possible with the package.
