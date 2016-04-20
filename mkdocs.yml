@@ -6,9 +6,9 @@ pages:
 - requirements: requirements.md
 - workflow:
     - authentication: auth.md
+    - reports and metrics: reports.md
     - querybuilder: query.md
     - load data: getdata.md
-    - reports and metrics: reports.md
 - code examples: examples.md
 - FAQ / troubleshooting: faq.md
 - bug reporting: bug.md
