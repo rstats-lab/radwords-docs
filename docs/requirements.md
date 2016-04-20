@@ -1,10 +1,11 @@
 ### Requirements
 
-In order to access the AdWords API you need to satisfy the following:  
+In order to access the AdWords API you have to meet the following requirements:  
 
-- Google API project (client ID, client secret)
-- AdWords MCC (my client center)
-- AdWords API Developer Token
+- Valid Google API project (client ID, client secret)
+- Valid AdWords MCC (my client center) account
+- Valid AdWords API Developer Token
+- Do NOT use an Adwords Testaccount! 
 
 
 Missing one of the above mentioned items you cannot access the AdWords API. 
