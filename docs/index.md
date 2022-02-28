@@ -2,7 +2,7 @@
 
 Welcome to the official documentation of the R Adwords package for Google Adwords. RAdwords enables users of the R Language for Statistical Computing to directly access their Google Adwords account in order to consume and analyze information provided by the Adwords API.
 
-## :exclamation::exclamation: Google AdWords API Sunset :exclamation::exclamation:
+# `Google AdWords API Sunset`
 
 > **The Google AdWords API will [sunset on April 27, 2022](https://ads-developers.googleblog.com/2021/04/upgrade-to-google-ads-api-from-adwords.html).  
 > Upgrade to the Google Ads API with our new R package [{r4googleads}](https://github.com/banboo-data/r4googleads).
